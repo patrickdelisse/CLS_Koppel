@@ -1,0 +1,12 @@
+K:\Systems\Apps\CLS_Merge\ReadMe.pdf
+K:\Systems\Apps\CLS_Merge\CLS_Merge.exe
+K:\Systems\Apps\CLS_Merge\CLS_Merge.pdb
+K:\Systems\Apps\CLS_Merge\CLS_Merge.xml
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Merge.vbprojResolveAssemblyReference.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Koppel.Form1.resources
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Koppel.Resources.resources
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Merge.vbproj.GenerateResource.Cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Merge.vbproj.CoreCompileInputs.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Merge.exe
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Merge.xml
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CLS Koppel\CLS_Merge_V16\CLS_Merge\obj\Debug\CLS_Merge.pdb

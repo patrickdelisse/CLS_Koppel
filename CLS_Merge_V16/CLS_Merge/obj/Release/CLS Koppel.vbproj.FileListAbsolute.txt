@@ -1,0 +1,147 @@
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\bin\Release\CLS Koppel.exe.manifest
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\bin\Release\CLS Koppel.application
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.TrustInfo.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.exe.manifest
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V05\obj\Release\CLS Koppel.application
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V06\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\CLS Koppel.exe
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\CLS Koppel.pdb
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\CLS Koppel.xml
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\ResolveAssemblyReference.cache
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS_Koppel.Form1.resources
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS_Koppel.Form2.resources
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS_Koppel.Resources.resources
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.exe
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.xml
+M:\CADCAM\VB\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V07\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V08\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic 2008 .NET\CLS Koppel\NET.V09\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\GenerateResource.read.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\GenerateResource.write.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V10\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\GenerateResource.read.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\GenerateResource.write.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V11\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\GenerateResource.read.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\GenerateResource.write.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V12\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\ResolveAssemblyReference.cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\GenerateResource.read.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\GenerateResource.write.1.tlog
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V13\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V14\obj\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\ReadMe.pdf
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\CLS Koppel.pdb
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS_Koppel.Form1.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS_Koppel.Resources.resources
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.exe
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.xml
+S:\Cadcam\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.pdb
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\ReadMe.pdf
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\CLS Koppel.exe
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\CLS Koppel.pdb
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\bin\Release\CLS Koppel.xml
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS_Koppel.Form1.resources
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS_Koppel.Resources.resources
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.vbproj.GenerateResource.Cache
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.exe
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.xml
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CLS Koppel\NET.V15\obj\Release\CLS Koppel.pdb
